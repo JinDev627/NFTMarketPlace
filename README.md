@@ -6,6 +6,7 @@ This will be used for the Bublr item Marketplace.
 
 
 <h4> Smart Contract </h4> 
+
 - Implemented functions
     1. Create an ERC721 token
     2. Manage user's sale list
